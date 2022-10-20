@@ -3,7 +3,6 @@
 <img src="https://pm1.narvii.com/6141/d6f1985e41ef76a0a9adca80329ddda1a1c260c4_hq.jpg" style="width: 268px; height: 268px;">
 </div>
 <h3 align="center">A passionate frontend/backend developer from Mexico</h3>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
